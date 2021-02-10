@@ -1,7 +1,7 @@
 
 <h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">𝐒𝐞𝐝 𝐛𝐨𝐲...</a></b></h2>
 <br>
-<p align="center"><a href="https://t.me/lightningsupport"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
+<p align="center"><a href="https://t.me/lightningsupport"><img src="https://telegra.ph/file/fd94d5667445f891bb5d0.jpg"></a></p> 
 </p>
 <h1>ＷＨＩＴＥ ＤＥＶＩＬ</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
