@@ -153,6 +153,15 @@ he is wry scyko Don't PM him without her permission otherwise report spam and fb
 ```
 
 
+# 𝐈𝐌𝐏𝐎𝐑𝐓𝐀𝐍𝐓 𝐍𝐎𝐓𝐈𝐂𝐄
+```
+
+ＭＥＧＡ ＵＰＤＡＴＥ ＩＳ ＣＯＭＩＮＧ 
+ＡＦＴＥＲ ＥＸＡＭ....
+ＷＡＩＴ ＦＯＲ ＩＴ....
+😎😎😎😎
+```
+
 
 
 
