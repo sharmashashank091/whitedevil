@@ -135,7 +135,8 @@ pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
 python3 -m white-devil
 ```
-
+# about shashank
+Don't PM him without her permission otherwise report spam and fbam...
 
 
 
