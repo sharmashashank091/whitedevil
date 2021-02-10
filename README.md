@@ -135,8 +135,8 @@ pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
 python3 -m white-devil
 ```
-# about shashank
-he is wry scyko Don't PM him without her permission otherwise report spam and fbam...
+
+
 
 
 
@@ -161,6 +161,14 @@ he is wry scyko Don't PM him without her permission otherwise report spam and fb
 ＷＡＩＴ ＦＯＲ ＩＴ....
 😎😎😎😎
 ```
+
+# 𝑶𝑾𝑵𝑬𝑹
+```
+NAME- SHASHANK SHARMA
+AGE-14
+TG ID- @THESEDLYF
+
+            -DON'T PM WITHOUT PERMISION OTHERWISE BLOCK+REPORT+FBAN....
 
 
 
