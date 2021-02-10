@@ -92,7 +92,7 @@ Thx To  Friday And Dark Cobra Bot :") And Big Big Thx To 🔱╚»★𝙍𝘿�
 
 ## Note-: 
 
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.......
+This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.......@Thesedlyf😎😎
 
 # Requirements 
 * Python 3.8 or Higher
@@ -128,13 +128,12 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github/KienShin/Black-Lightning.git
-cd Black Lightning 
+git clone https://github.com/sharmashashank091/whitedevil
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m Black-Lightning
+python3 -m white-devil
 ```
 
 
@@ -149,7 +148,7 @@ python3 -m Black-Lightning
     [-] APP_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Lightning Bot will not work without setting the mandatory vars.
+[+] The ＤＥＶＩＬ Bot will not work without setting the mandatory vars.
 ```
 
 
