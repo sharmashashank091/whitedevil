@@ -136,7 +136,7 @@ pip install -r requirements.txt
 python3 -m white-devil
 ```
 # about shashank
-Don't PM him without her permission otherwise report spam and fbam...
+he is wry scyko Don't PM him without her permission otherwise report spam and fbam...
 
 
 
