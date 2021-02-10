@@ -1,5 +1,5 @@
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">B乛LAC丨ᗩᑎᗰᗝᒪ ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">𝐒𝐞𝐝 𝐛𝐨𝐲...</a></b></h2>
 <br>
 <p align="center"><a href="https://t.me/lightningsupport"><img src="https://telegra.ph/file/07d55d71944a852ac6d5e.jpg"></a></p> 
 </p>
@@ -22,7 +22,7 @@
 
 # Credits 
 
-**This Is Telegram Black Lightning User Bot Mix Of Every Userbot Credits To Thier Owners** 
+**This Is Telegram 𝐖𝐇𝐈𝐓𝐄 𝐃𝐄𝐕𝐈𝐋 User Bot Mix Of Every Userbot Credits To Thier Owners** 
 Thx To  Friday And Dark Cobra Bot :") And Big Big Thx To 🔱╚»★𝙍𝘿𝙓★«╝⫸MONSTER🔱 ⁪⁬⁮⁮⁮⁮『⟁⃤ ₮Ɇ₳₥ { #𝙀𝙓𝙏𝙍𝙀𝙈𝙀 𝙁𝙄𝙂𝙃𝙏™}🔥𐌷𐌴ࠋࠋ𐌱𐍈𐌸 𐌾𐌰 and @CipherX1-ops, @Hellboi-Danish Sir     **This Is Mix Of Friday and Cobra**
 
 
@@ -54,7 +54,7 @@ Thx To  Friday And Dark Cobra Bot :") And Big Big Thx To 🔱╚»★𝙍𝘿�
 
 ## Tottal CMDs -: CMDS Are More Than 470 :D
 
-# About ɮʟǟƈᏦ ʟɨɢɦƭռɨռɢ
+# About ＷＨＩＴＥ ＤＥＶＩＬ
 
 1. Can Do Many This Such As Download ANy Video From Youtube and Other Sites
 
