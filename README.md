@@ -49,8 +49,8 @@ Thx To  Friday And Dark Cobra Bot :") And Big Big Thx To 🔱╚»★𝙍𝘿�
 
 
 # Support
-<a href="t.me/whitedevilsupport"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="t.me/whitedevilsupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/INVGIp8QaUTrZPy5"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/INVGIp8QaUTrZPy5"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Tottal CMDs -: CMDS Are More Than 470 :D
 
